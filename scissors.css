@@ -1,0 +1,880 @@
+/* This is the header */
+.header,
+.header * {
+  box-sizing: border-box;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  gap: 140px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+.logo {
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.vector {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.vector-2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.scissor {
+  color: var(--primary-300-base, #0065fe);
+  text-align: left;
+  font: var(--h-2-bold, 400 24px/32px "Gilroy-Bold", sans-serif);
+  position: relative;
+  width: 99px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1000001643 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.my-ur-ls {
+  color: var(--primary-300-base, #0065fe);
+  text-align: left;
+  font: 400 18px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.group-8 {
+  flex-shrink: 0;
+  width: 100px;
+  height: 24px;
+  position: static;
+}
+.features {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 18px "Gilroy-Medium", sans-serif;
+  position: absolute;
+  left: 109px;
+  top: 1px;
+}
+.chevron-down {
+  position: absolute;
+  left: 185px;
+  top: 0px;
+  overflow: visible;
+}
+.pricing {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 18px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.analytics {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 18px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.fa-qs {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 18px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-1000001645 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.log-in {
+  color: var(--primary-300-base, #0065fe);
+  text-align: left;
+  font: 400 16px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.button {
+  background: var(--primary-300-base, #0065fe);
+  border-radius: 100px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 142px;
+  height: 44px;
+  position: relative;
+  overflow: hidden;
+}
+.sample-cta {
+  color: var(--neutral-white, #ffffff);
+  text-align: left;
+  font: 400 16px/12px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+/* This is the header */
+.frame-1000001650,
+.frame-1000001650 * {
+  box-sizing: border-box;
+}
+.frame-1000001650 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-1000001647 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-1 {
+  flex-shrink: 0;
+  width: 948px;
+  height: 200px;
+  position: static;
+}
+.optimize-your-online-experience-with-our-advanced-url-shortening-solution {
+  text-align: center;
+  font: 400 48px/96px "Gilroy-Bold", sans-serif;
+  position: absolute;
+  left: calc(50% - 474px);
+  top: 0px;
+  width: 948px;
+  height: 200px;
+}
+.optimize-your-online-experience-with-our-advanced-url-shortening-solution-span {
+  color: var(--text-color-maintext, #141414);
+  font: 400 48px/96px "Gilroy-Bold", sans-serif;
+}
+.optimize-your-online-experience-with-our-advanced-url-shortening-solution-span2 {
+  color: var(--primary-400, #005ae2);
+  font: 400 48px/96px "Gilroy-Bold", sans-serif;
+}
+.optimize-your-online-experience-with-our-advanced-url-shortening-solution-span3 {
+  color: var(--text-color-maintext, #141414);
+  font: 400 48px/96px "Gilroy-Bold", sans-serif;
+}
+.vector-3 {
+  position: absolute;
+  left: 397px;
+  top: 167.9px;
+  overflow: visible;
+}
+.personalize-your-shortened-ur-ls-to-align-with-your-brand-identity-utilize-custom-slugs-branded-links-and-domain-customization-options-to-reinforce-your-brand-presence-and-enhance-user-engagement {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 18px/28px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 781px;
+  height: 105px;
+}
+.frame-1000001648 {
+  display: flex;
+  flex-direction: row;
+  gap: 56px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.button {
+  background: var(--primary-300-base, #0065fe);
+  border-radius: 100px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 142px;
+  height: 44px;
+  position: relative;
+  overflow: hidden;
+}
+.sample-cta {
+  color: var(--neutral-white, #ffffff);
+  text-align: left;
+  font: 400 16px/12px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.learn-more {
+  color: var(--primary-300-base, #0065fe);
+  text-align: left;
+  font: 400 16px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+/* This is the header */
+.group-2,
+.group-2 * {
+  box-sizing: border-box;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.vector-2 {
+  position: absolute;
+  left: 369px;
+  top: 725.63px;
+  transform: translate(69.39px, -108.36px);
+  overflow: visible;
+}
+.frame-29546 {
+  background: rgba(254, 254, 254, 0.1);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: var(--primary-400, #005ae2);
+  border-width: 0.5px;
+  padding: 40px 60px 40px 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 286px);
+  top: 631px;
+  backdrop-filter: blur(106px);
+}
+.frame-1000001716 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.link-2 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.link-22 {
+  margin: 0 0 0 -8px;
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.link-23 {
+  margin: 0 0 0 -8px;
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.line-7 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-1px, -5.77px);
+  overflow: visible;
+}
+.link-24 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+/* This is the headeradjfdfdf */
+.group-3,
+.group-3 * {
+  box-sizing: border-box;
+}
+.group-3 {
+  position: relative;
+  overflow: visible;
+}
+/*This is the second section */
+.container23{
+    padding-bottom: 50px;
+ }
+.frame-1000001693,
+.frame-1000001693 * {
+   box-sizing: border-box;
+}
+.frame-1000001693 {
+  background: #f9fbfd;
+  padding: 60px 140px 60px 140px;
+  display: flex;
+  flex-direction: row;
+  gap: 120px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.frame-1000001692 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.one-stop-four-possibilities {
+  text-align: left;
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+  position: relative;
+  width: 337px;
+}
+.one-stop-four-possibilities-span {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.one-stop-four-possibilities-span2 {
+  color: var(--primary-400, #005ae2);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.one-stop-four-possibilities-span3 {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.frame-1000001715 {
+  display: flex;
+  flex-direction: row;
+  gap: 72px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001668 {
+  padding: 0px 4px 0px 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 72px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._3-m {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/40px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.active-users {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 100px;
+  position: relative;
+}
+._60-m {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/40px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.links-qr-codes-created {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 123px;
+  height: 52px;
+}
+.frame-1000001690 {
+  padding: 0px 4px 0px 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 72px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001670 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001669 {
+  display: flex;
+  flex-direction: row;
+  gap: 44px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-6 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._1-b {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/40px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.clicked-scanned-connections {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 143px;
+  height: 56px;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._300-k {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/40px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.app-integrations {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+/*This is the second section */
+.space {
+    height: 40px; /* Adjust the height to create the desired space */
+  }
+  
+/*This is the second section */
+.frame-1000001703,
+.frame-1000001703 * {
+  box-sizing: border-box;
+}
+.frame-1000001703 {
+  display: flex;
+  flex-direction: row;
+  gap: 96px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-1000001691 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001652 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.line-70 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.why-choose-scissors {
+  text-align: left;
+  font: 400 40px/32px "Gilroy-Bold", sans-serif;
+  position: relative;
+}
+.why-choose-scissors-span {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/32px "Gilroy-Bold", sans-serif;
+}
+.why-choose-scissors-span2 {
+  color: var(--primary-400, #005ae2);
+  font: 400 40px/32px "Gilroy-Bold", sans-serif;
+}
+.scissors-is-the-hub-of-everything-that-has-to-do-with-your-link-management-we-shorten-your-ur-ls-allow-you-creating-custom-ones-for-your-personal-business-event-usage-our-swift-qr-code-creation-management-and-usage-tracking-with-advance-analytics-for-all-of-these-is-second-to-none {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/28px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 370px;
+  height: 192px;
+}
+.frame-1000001702 {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001699 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001694 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-6 {
+  flex-shrink: 0;
+  width: 56px;
+  height: 56px;
+  position: static;
+}
+.link-2 {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  overflow: visible;
+}
+.ellipse-2 {
+  background: rgba(50, 132, 255, 0.13);
+  border-radius: 50%;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.url-shortening {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/28px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.scissor-allows-you-to-shorten-ur-ls-of-your-business-events-shorten-your-url-at-scale-url-redirects {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 340px;
+  height: 80px;
+}
+.frame-1000001697 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001695 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.edit {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  overflow: visible;
+}
+.frame-1000001696 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.custom-ur-ls {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/28px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.with-scissor-you-can-create-custom-ur-ls-with-the-length-you-want-a-solution-for-socials-and-businesses {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 340px;
+  height: 71px;
+}
+.frame-1000001701 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001698 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.grid {
+  position: absolute;
+  left: 15.79px;
+  top: 16.07px;
+  overflow: visible;
+}
+.qr-codes {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/28px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.generate-qr-codes-to-your-business-events-bring-your-audience-and-customers-to-your-doorstep-with-this-scan-and-go-solution {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 340px;
+  height: 80px;
+}
+.frame-1000001700 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001718 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.activity {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  overflow: visible;
+}
+.frame-1000001671 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.data-analytics {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/28px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.receive-data-on-the-usage-of-either-your-shortened-url-custom-ur-ls-or-generated-qr-codes-embedded-to-monitor-progress {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 340px;
+  height: 80px;
+}
+
+/*This is the second section */
+.frame-1000001713,
+.frame-1000001713 * {
+  box-sizing: border-box;
+}
+.frame-1000001713 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.line-70 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-1000001673 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.a-price-perfect-for-your-needs {
+  text-align: center;
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+  position: relative;
+}
+.a-price-perfect-for-your-needs-span {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.a-price-perfect-for-your-needs-span2 {
+  color: var(--primary-400, #005ae2);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.a-price-perfect-for-your-needs-span3 {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.from-catering-for-your-personal-business-event-socials-needs-you-can-be-rest-assured-we-have-you-in-mind-in-our-pricing {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 556px;
+  height: 52px;
+}
+
+
+
+/*This is the second section */
+.frame-1000001673,
+.frame-1000001673 * {
+  box-sizing: border-box;
+}
+.frame-1000001673 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.a-price-perfect-for-your-needs {
+  text-align: center;
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+  position: relative;
+}
+.a-price-perfect-for-your-needs-span {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.a-price-perfect-for-your-needs-span2 {
+  color: var(--primary-400, #005ae2);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.a-price-perfect-for-your-needs-span3 {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.from-catering-for-your-personal-business-event-socials-needs-you-can-be-rest-assured-we-have-you-in-mind-in-our-pricing {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 556px;
+  height: 52px;
+}
+/* Adjust the margin as needed */
+.divider {
+    border: none;
+    border-top: 1px solid #000000; /* Black color */
+    margin: 20px 0; /* Adjust the margin as needed */
+  }
+/* Adjust the margin as needed *..........................................................................................................*/
+
+
+
+
+
+/* Adjust the margin as needed *..........................................................................................................*/
+
+
+  
